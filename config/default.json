@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://nandhini:nandhini@cluster0.bpixw.mongodb.net/devconnector?retryWrites=true&w=majority",
+  "myToken": "myToken",
+  "githubClientId": "d17c04d6e2fd54ca93e8",
+  "githubSecret": "a117e9cbfbb2355e6bc770b01734887c20c3f339"
+}
